@@ -1,3 +1,6 @@
+__pycache__
+*.pyc
+*.sqllite3
 ra-*.html
 .rspec
 .idea/
