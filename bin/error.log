@@ -1,0 +1,47 @@
+[2020-02-14 01:18:00 +0300] [25703] [INFO] Starting gunicorn 20.0.4
+[2020-02-14 01:18:00 +0300] [25703] [INFO] Listening at: http://0.0.0.0:8283 (25703)
+[2020-02-14 01:18:00 +0300] [25703] [INFO] Using worker: sync
+[2020-02-14 01:18:00 +0300] [25708] [INFO] Booting worker with pid: 25708
+[2020-02-14 01:18:00 +0300] [25709] [INFO] Booting worker with pid: 25709
+[2020-02-14 01:18:00 +0300] [25710] [INFO] Booting worker with pid: 25710
+[2020-02-14 01:18:00 +0300] [25712] [INFO] Booting worker with pid: 25712
+[2020-02-14 01:18:01 +0300] [25714] [INFO] Booting worker with pid: 25714
+[2020-02-14 01:22:09 +0300] [25703] [INFO] Handling signal: int
+[2020-02-13 22:22:09 +0000] [25708] [INFO] Worker exiting (pid: 25708)
+[2020-02-13 22:22:09 +0000] [25710] [INFO] Worker exiting (pid: 25710)
+[2020-02-13 22:22:09 +0000] [25712] [INFO] Worker exiting (pid: 25712)
+[2020-02-13 22:22:09 +0000] [25709] [INFO] Worker exiting (pid: 25709)
+[2020-02-14 01:22:10 +0300] [25703] [INFO] Shutting down: Master
+[2020-02-14 01:22:25 +0300] [26340] [INFO] Starting gunicorn 20.0.4
+[2020-02-14 01:22:25 +0300] [26340] [INFO] Listening at: http://0.0.0.0:8283 (26340)
+[2020-02-14 01:22:25 +0300] [26340] [INFO] Using worker: sync
+[2020-02-14 01:22:25 +0300] [26340] [INFO] Server is ready. Spawning workers
+[2020-02-14 01:22:25 +0300] [26345] [INFO] Booting worker with pid: 26345
+[2020-02-14 01:22:25 +0300] [26345] [INFO] Worker spawned (pid: 26345)
+[2020-02-14 01:22:25 +0300] [26346] [INFO] Booting worker with pid: 26346
+[2020-02-14 01:22:25 +0300] [26346] [INFO] Worker spawned (pid: 26346)
+[2020-02-14 01:22:25 +0300] [26347] [INFO] Booting worker with pid: 26347
+[2020-02-14 01:22:25 +0300] [26347] [INFO] Worker spawned (pid: 26347)
+[2020-02-14 01:22:25 +0300] [26350] [INFO] Booting worker with pid: 26350
+[2020-02-14 01:22:25 +0300] [26350] [INFO] Worker spawned (pid: 26350)
+[2020-02-14 01:22:25 +0300] [26351] [INFO] Booting worker with pid: 26351
+[2020-02-14 01:22:25 +0300] [26351] [INFO] Worker spawned (pid: 26351)
+[2020-02-13 22:26:42 +0000] [26351] [INFO] worker received INT or QUIT signal
+[2020-02-13 22:26:42 +0000] [26350] [INFO] worker received INT or QUIT signal
+[2020-02-13 22:26:42 +0000] [26346] [INFO] worker received INT or QUIT signal
+[2020-02-13 22:26:42 +0000] [26347] [INFO] worker received INT or QUIT signal
+[2020-02-13 22:26:42 +0000] [26345] [INFO] worker received INT or QUIT signal
+[2020-02-14 01:26:42 +0300] [26340] [INFO] Handling signal: int
+[2020-02-13 22:26:42 +0000] [26345] [INFO] worker received INT or QUIT signal
+[2020-02-13 22:26:42 +0000] [26347] [INFO] worker received INT or QUIT signal
+[2020-02-13 22:26:42 +0000] [26351] [INFO] worker received INT or QUIT signal
+[2020-02-13 22:26:42 +0000] [26350] [INFO] worker received INT or QUIT signal
+[2020-02-13 22:26:42 +0000] [26346] [INFO] worker received INT or QUIT signal
+[2020-02-13 22:26:43 +0000] [26345] [INFO] Worker exiting (pid: 26345)
+[2020-02-13 22:26:43 +0000] [26347] [INFO] Worker exiting (pid: 26347)
+[2020-02-13 22:26:43 +0000] [26351] [INFO] Worker exiting (pid: 26351)
+[2020-02-13 22:26:43 +0000] [26350] [INFO] Worker exiting (pid: 26350)
+[2020-02-13 22:26:43 +0000] [26346] [INFO] Worker exiting (pid: 26346)
+[2020-02-14 01:26:43 +0300] [26340] [INFO] Shutting down: Master
+[2020-02-14 01:34:53 +0300] [26984] [CRITICAL] WORKER TIMEOUT (pid:26991)
+[2020-02-14 01:37:28 +0300] [26984] [CRITICAL] WORKER TIMEOUT (pid:26993)
