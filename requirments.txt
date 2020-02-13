@@ -1,0 +1,12 @@
+requests
+django_restframework
+django
+djangorestframework
+psycopg2
+psycopg2-binary
+djoser
+djangorestframework_simplejwt
+social-auth-app-django
+gunicorn
+ptyprocess
+ipython
