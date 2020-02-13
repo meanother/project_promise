@@ -1,4 +1,6 @@
-__pycache__
+__pycache__/*
+config/config/config/__pycache__/*.pyc
+config/promise/config/__pycache__/*.pyc
 *.pyc
 *.sqllite3
 ra-*.html
