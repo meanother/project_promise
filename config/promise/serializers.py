@@ -31,6 +31,5 @@ class UserSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = User
-        print(model)
         fields = ('id', 'username', 'promise') # from model in line owner
 

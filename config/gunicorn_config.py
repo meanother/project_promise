@@ -6,7 +6,7 @@ user = 'ubpc'
 limit_request_field = 3200
 limit_request_field_size = 0
 errorlog = '/home/ubpc/project_promise/bin/error.log'
-loglevel = 'error'
+loglevel = 'info'
 accesslog = '/home/ubpc/project_promise/bin/access.log'
 access_log_format = '%(h)s %(l)s %(u)s %(t)s "%(r)s" %(s)s %(b)s "%(f)s" "%(a)s"'
 raw_env = 'DJANGO_SETTINGS_MODULE=config.settings'
