@@ -7,17 +7,13 @@ __pycache__/
 *.so
 
 
-bin/access.log
-bin/error.log
-
-
-
 # Distribution / packaging
 .Python
 build/
 develop-eggs/
 dist/
 downloads/
+**/*.log
 *.log
 eggs/
 .eggs/
@@ -64,7 +60,6 @@ coverage.xml
 
 # Django stuff:
 *.log
-bin/*.log
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
